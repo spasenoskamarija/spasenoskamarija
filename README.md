@@ -1,7 +1,6 @@
 ### Computer Science @ FCSE
 
-## Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marija-spasenoska-9ba852346/)
+Contact [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marija-spasenoska-9ba852346/)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=spasenoskamarija&theme=codeSTACKr&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=spasenoskamarija&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
