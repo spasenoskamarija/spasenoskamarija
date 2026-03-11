@@ -1,4 +1,5 @@
-
+# Marija Spasenoska  
+### Computer Science @ FCSE 👩‍💻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marija-spasenoska-9ba852346/)
 
@@ -10,8 +11,6 @@
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow&perline=10)](https://skillicons.dev)
 
 ![](https://github-profile-trophy.vercel.app/?username=spasenoskamarija&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 <p align="center">
